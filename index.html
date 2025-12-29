@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="id">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Soal Manajemen Operasi Jasa</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>Soal Manajemen Operasi Jasa</h1>
+        <div class="meta">Interaktif · Pilihan ganda · Kata kunci & pembahasan.</div>
+      </div>
+      <div style="margin-left:auto;text-align:right">
+        <div class="small">Gunakan tombol: Cek Jawaban (per soal), Tampilkan Kunci, dan Selesai untuk nilai.</div>
+      </div>
+    </header>
+
+    <div class="card" id="quiz">
+      <div id="qarea"></div>
+
+      <div class="controls">
+        <div>
+          <button id="prev" class="ghost">◀ Sebelumnya</button>
+          <button id="next" class="ghost">Selanjutnya ▶</button>
+        </div>
+        <div style="display:flex;gap:8px;align-items:center">
+          <div class="small" id="progress">Soal 1 / 100</div>
+          <button id="check">Cek Jawaban</button>
+          <button id="reveal" class="ghost">Tampilkan Kunci</button>
+        </div>
+      </div>
+    </div>
+
+    <div style="margin-top:10px;display:flex;gap:8px;flex-wrap:wrap">
+      <button id="reset" class="ghost">Reset</button>
+      <button id="finish">Selesai & Nilai</button>
+      <button id="download" class="ghost">Download Hasil (CSV)</button>
+    </div>
+
+    <div id="result" class="card" style="display:none;margin-top:12px"></div>
+
+    <div id="all" style="display:none;margin-top:12px"></div>
+
+    <footer>
+      Soal disusun berdasar modul Perilaku Organisasi. Cocok untuk latihan cepat & review.
+    </footer>
+  </div>
+<script src="script.js"></script>
+</body>
+
+</html>

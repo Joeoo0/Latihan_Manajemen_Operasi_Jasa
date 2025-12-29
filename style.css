@@ -1,0 +1,141 @@
+:root {
+      --bg: #f4f7fb;
+      --card: #fff;
+      --primary: #1f6feb;
+      --muted: #666
+    }
+
+    body {
+      font-family: system-ui, Arial, sans-serif;
+      background: var(--bg);
+      margin: 0;
+      padding: 20px;
+      color: #111
+    }
+
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 14px
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 20px
+    }
+
+    .meta {
+      color: var(--muted);
+      font-size: 13px
+    }
+
+    .card {
+      background: var(--card);
+      padding: 18px;
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(20, 30, 60, 0.06)
+    }
+
+    .question-title {
+      font-weight: 700;
+      margin-bottom: 8px
+    }
+
+    .question {
+      font-size: 16px;
+      margin-bottom: 12px
+    }
+
+    .options {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 8px
+    }
+
+    .opt {
+      padding: 10px;
+      border-radius: 10px;
+      border: 1px solid #e6e9ef;
+      cursor: pointer;
+      user-select: none
+    }
+
+    .opt.selected {
+      background: #eaf2ff;
+      border-color: var(--primary)
+    }
+
+    .opt.correct {
+      background: #e8ffef;
+      border-color: #2fa44f
+    }
+
+    .opt.wrong {
+      background: #fff0f0;
+      border-color: #d23b3b
+    }
+
+    .keyword {
+      display: inline-block;
+      background: #eef6ff;
+      color: #084c9e;
+      padding: 6px 8px;
+      border-radius: 999px;
+      font-size: 13px;
+      margin-top: 6px
+    }
+
+    .explain {
+      margin-top: 12px;
+      background: #fbfdff;
+      border-left: 4px solid #cfe3ff;
+      padding: 12px;
+      border-radius: 8px
+    }
+
+    .controls {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 14px;
+      gap: 8px
+    }
+
+    button {
+      background: var(--primary);
+      color: #fff;
+      border: none;
+      padding: 10px 12px;
+      border-radius: 10px;
+      cursor: pointer
+    }
+
+    button.ghost {
+      background: transparent;
+      color: var(--primary);
+      border: 1px solid var(--primary)
+    }
+
+    .small {
+      font-size: 13px;
+      color: var(--muted)
+    }
+
+    footer {
+      margin-top: 18px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 13px
+    }
+
+    @media(max-width:600px) {
+      body {
+        padding: 12px
+      }
+    }
