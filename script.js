@@ -1250,6 +1250,327 @@
         ],
         a: 1,
         explain: "program untuk menghemat waktu, meningkatkan kualitas, dan menurunkan biaya"
+      },
+
+      {
+        q: "108. Salah satu metode Financial Performance Measurement System (FPMS) dalam mengukur kinerja Rantai Pasokan adalah metode Economic Value Added (EVA). Apa yang dimaksud dengan metode tersebut?",
+        choices: [
+          "Metode yang dikembangkan sebagai upaya untuk menghubungkan pengukuran keuangan terhadap kinerja operasional yang melibatkan pemilahan kegiatan-kegiatan menjadi tugas-tugas individu atau tempat pengeluaran biaya (cost driver).",
+          "Pendekatan untuk mengestimasi pengembalian modal perusahaan.",
+          "Metode yang mengamati dengan seimbang dari kedua sisi baik operasional ataupun keuangan pada saat bersamaan.",
+          "Tidak ada yang benar."
+        ],
+        a: 1,
+        explain: "Pendekatan untuk mengestimasi pengembalian modal perusahaan."
+      },
+
+      {
+        q: "109. Bila diketahui jarak dari Dept. A ke Dept. B = 50 m. Dept A ke C = 100 m, berapakah biaya minimum yang harus dikeluarkan untuk memindahkan barang, bila ditetapkan biaya Rp1.000 untuk jarak dekat dan Rp2.000 untuk jarak terjauh?",
+        choices: [
+          "Rp200.000", "Rp250.000", "Rp300.000", "Dianggap 0"
+        ],
+        a: 3,
+        explain: "Dianggap 0"
+      },
+
+      {
+        q: "110. Dalam konteks manajemen pengendalian, apa yang perlu dilakukan untuk menjamin kualitas produk yang dihasilkan sesuai kebutuhan konsumen?",
+        choices: [
+          "Manajemen kualitas.",
+          "Evaluasi desain produk.",
+          "Pengendalian kualitas.",
+          "Monitoring proses produksi."
+        ],
+        a: 2,
+        explain: "Pengendalian kualitas."
+      },
+
+      {
+        q: "111. Distribusi menurut Chopra dan Meindl (2010) adalah….",
+        choices: [
+          "sama dengan Supply chain, yang membedakan adalah sudut pandangnya antara produsen dan konsumen",
+          "suatu aktivitas untuk memindahkan produk dari pihak pemasok kepada pihak konsumen yang diluar dari sistem rangkaian rantai pasok",
+          "suatu aktivitas untuk memindahkan produk dari pihak pemasok kepada pihak distributor diluar rangkaian rantai pasok",
+          "suatu aktivitas untuk memindahkan produk dari pihak pemasok kepada pihak konsumen dalam suatu rangkaian rantai pasok"
+        ],
+        a: 3,
+        explain: "suatu aktivitas untuk memindahkan produk dari pihak pemasok kepada pihak konsumen dalam suatu rangkaian rantai pasok"
+      },
+
+      {
+        q: "112. Tujuan dari manajemen rantai pasokan adalah untuk….",
+        choices: [
+          "mengidentifikasi kegiatan dalam rantai pasokan untuk memaksimalkan keunggulan kompetitif dan manfaat dari rantai pasokan bagi konsumen akhir",
+          "mengamati kegiatan dalam rantai pasokan untuk memaksimalkan keunggulan kompetitif dan manfaat dari rantai pasokan bagi konsumen akhir",
+          "merencanakan kegiatan dalam rantai pasokan untuk memaksimalkan keunggulan kompetitif dan manfaat dari rantai pasokan bagi konsumen akhir",
+          "mengoordinasi kegiatan dalam rantai pasokan untuk memaksimalkan keunggulan kompetitif dan manfaat dari rantai pasokan bagi konsumen akhir"
+        ],
+        a: 3,
+        explain: "mengoordinasi kegiatan dalam rantai pasokan untuk memaksimalkan keunggulan kompetitif dan manfaat dari rantai pasokan bagi konsumen akhir"
+      },
+
+      {
+        q: "113. Berikut merupakan prinsip-prinsip yang harus dipegang teguh dalam pelaksanaan purchasing, kecuali….",
+        choices: [
+          "The right price",
+          "The right quantity",
+          "The right time",
+          "The right man"
+        ],
+        a: 3,
+        explain: "The right man"
+      },
+
+      {
+        q: "114. Tipe tata letak yang digunakan dalam perusahaan manufaktur dan jasa dengan lokasi yang tetap sementara karyawan dan peralatan didatangkan ke lokasi tersebut merupakan pendekatan jenis tata letak….",
+        choices: [
+          "tata letak posisi tetap",
+          "tata letak kantor",
+          "tata letak retail",
+          "kombinasi ketiganya"
+        ],
+        a: 0,
+        explain: "tata letak posisi tetap"
+      },
+
+      {
+        q: "115. Menurut Littlefield dan Peterson (1956) pengertian tata letak adalah....",
+        choices: [
+          "penyusunan perabotan dan perlengkapan kantor pada luas kantor yang tersedia",
+          "penyusunan orang, peralatan, dan produk pada ruang yang tersedia.",
+          "penyusunan jadwal, manusia, dan peralatan dalam jadwal pekerjaan",
+          "semua benar"
+        ],
+        a: 1,
+        explain: "penyusunan orang, peralatan, dan produk pada ruang yang tersedia."
+      },
+
+      {
+        q: "116. Dari empat faktor yang dijadikan fungsi dari persediaan, salah satunya faktor ketidakpastian waktu kedatangan. Apa yang dimaksud dengan faktor waktu tersebut?",
+        choices: [
+          "Faktor yang disebabkan oleh kesalahan dalam peramalan permintaan, kerusakan mesin, keterlambatan operasi, bahan cacat, dan berbagai aspek lainnya.",
+          "Faktor yang menyebabkan perusahaan memerlukan persediaan agar tidak menghambat proses produksi maupun keterlambatan pengiriman kepada konsumen.",
+          "Menyangkut lamanya faktor produksi dan distribusi sebelum barang jadi sampai kepada konsumen.",
+          "Semua benar"
+        ],
+        a: 2,
+        explain: "Menyangkut lamanya faktor produksi dan distribusi sebelum barang jadi sampai kepada konsumen."
+      },
+
+      {
+        q: "117. Tolak ukur dalam perspektif keuangan pada Balance scorecard adalah….",
+        choices: [
+          "aktiva dan pasiva",
+          "hutang dan modal",
+          "laba bersih dan ROI",
+          "pengeluaran dan piutang"
+        ],
+        a: 2,
+        explain: "laba bersih dan ROI"
+      },
+
+      {
+        q: "118. Menurut Kaplan dan Norton (1996), manfaat sistem pengukuran pada strategi organisasi adalah sebagai berikut, kecuali....",
+        choices: [
+          "mengomunikasikan tujuan dan target mereka",
+          "menciptakan pemahaman bersama tentang tujuan strategis organisasi",
+          "manajer dan karyawan dapat fokus pada penggerak kritis",
+          "keuntungan maksimal dan efisiensi anggaran"
+        ],
+        a: 3,
+        explain: "keuntungan maksimal dan efisiensi anggaran"
+      },
+
+      {
+        q: "119. Salah satu isu yang dapat merumitkan pengembangan rantai pasokan adalah insentif, yang dimaksud dari insentif tersebut adalah….",
+        choices: [
+          "insentif memasukkan barang dagangan ke rantai pasokan untuk penjualan yang belum terjadi. Hal ini menimbulkan fluktuasi yang mahal bagi semua anggota rantai..",
+          "insenstif tidak perlu fokus dalam memaksimalkan keuntungan lokal atau meminimalkan biaya langsung berdasarkan pada pengetahuan mereka yang terbatas.",
+          "insentif bisa saja mengabaikan keuntungan lokal atau meminimalkan biaya langusng berdasarkan pada pengetahuan mereka yang terbatas.",
+          "semua benar"
+        ],
+        a: 0,
+        explain: "insentif memasukkan barang dagangan ke rantai pasokan untuk penjualan yang belum terjadi. Hal ini menimbulkan fluktuasi yang mahal bagi semua anggota rantai.."
+      },
+
+      {
+        q: "120. Terdapat dua cara dalam meninjau proses dalam rantai pasok, yaitu…. ",
+        choices: [
+          "pemasok dan konsumen perspektif",
+          "cycle view dan push/pull view",
+          "drag view dan push view",
+          "producer view dan consumer view"
+        ],
+        a: 1,
+        explain: "cycle view dan push/pull view"
+      },
+
+      {
+        q: "121. Apa tujuan dari benchmarking menurut Camo (1989)?",
+        choices: [
+          "Pengukuran suatu proses atau organisasi terhadap beberapa target, baik internal (internal benchmarking) maupun eksternal (external benchmarking)",
+          "Pengukuran suatu proses atau organisasi terhadap beberapa target, tidak ada istilah internal maupun eksternal dalam hal ini",
+          "Mencari praktik terbaik yang akan mengarah pada kinerja superior organisasi",
+          "Pengukuran suatu proses atau organisasi terhadap beberapa capaian keberhasilan tiap tahun, tidak ada istilah internal maupun eksternal dalam hal ini."
+        ],
+        a: 2,
+        explain: "Mencari praktik terbaik yang akan mengarah pada kinerja superior organisasi"
+      },
+
+      {
+        q: "122. Dibawah ini adalah beberapa kepentingan audit SDM bagi perusahaan, kecuali.…",
+        choices: [
+          "meningkatkan prestasi karyawan",
+          "mengetahui prestasi karyawan",
+          "menetapkan besarnya kompensasi karyawan bersangkutan",
+          "mengetahui kreativitas dan perilaku karyawan"
+        ],
+        a: 2,
+        explain: "menetapkan besarnya kompensasi karyawan bersangkutan"
+      },
+
+      {
+        q: "123. Berikut ini adalah peranan peramalan bagi organisasi, kecuali....",
+        choices: [
+          "mencapai tujuan peramalan",
+          "penjadwalan sumberdaya yang tersedia.",
+          "penyediaan sumberdaya tambahan.",
+          "penentuan sumberdaya yang diinginkan."
+        ],
+        a: 0,
+        explain: "mencapai tujuan peramalan"
+      },
+
+      {
+        q: "124. Salah satu model yang dapat dilakukan dalam melakukan peramalan adalah subjective model, dimana orang-orang dengan keahlian tertentu ditanyai tentang kondisi yang akan datang dan tidak diizinkan untuk berinteraksi satu sama lain dalam menjelaskan kondisi yang akan datang. Model tersebut disebut juga dengan metode....",
+        choices: [
+          "Delphi",
+          "wawancara terstruktur",
+          "jury opinion",
+          "panel"
+        ],
+        a: 0,
+        explain: "Delphi"
+      },
+
+      {
+        q: "125. Pengambilan keputusan pada keadaan kepastian, nilai yang diharapkan dari informasi yang sempurna (expected value of perfect information; EVPI) dicari dengan cara.... ",
+        choices: [
+          "EVPI = nilai yang dihitung dari berapa tingkat pengembalian keuntungan rata-rata untuk masing-masing alterntif jika kita dapat mengulang keputusan tesebut berkalikali",
+          "EVPI = jumlah tingkat pengembalian keuntungan rata-rata untuk masing-masing alterntif jika kita dapat mengulang keputusan tesebut berkali-kali",
+          "EVPI = maksimum EMV – nilai yang diharapkan dengan informasi yang sempurna",
+          "EVPI = nilai yang diharapkan degnan informasi yang sempurna – maksimum EMV"
+        ],
+        a: 3,
+        explain: "EVPI = nilai yang diharapkan degnan informasi yang sempurna – maksimum EMV"
+      },
+
+      {
+        q: "126. Cara mengukur produktivitas parsial menurut Sahay (2005) adalah....",
+        choices: [
+          "penggunaan lebih dari satu sumberdaya masukan untuk mengukur produktivitas.",
+          "penggunaan dari minimal tiga sumberdaya masukan untuk mengukur produktivitas.",
+          "penggunaan dari hanya sumberdaya luaran untuk mengukur produktivitas.",
+          "penggunaan dari hanya satu sumberdaya masukan untuk mengukur produktivitas."
+        ],
+        a: 3,
+        explain: "penggunaan dari hanya satu sumberdaya masukan untuk mengukur produktivitas."
+      },
+
+      {
+        q: "127. Metode transportasi apa yang dapat digunakan dalam penentuan lokasi berdasarkan satuan ongkos terkecil?",
+        choices: [
+          "Vogel’s Approximation Method (VAM).",
+          "Northwest corner.",
+          "Least cost",
+          "Semuanya benar."
+        ],
+        a: 2,
+        explain: "Least cost"
+      },
+
+      {
+        q: "128. Tiga unsur utama program linear adalah….",
+        choices: [
+          "variabel keputusan, fungsi tujuan, dan fungsi kendala",
+          "variabel bebas, variabel terikat, dan variabel moderasi",
+          "variabel dependen, variabel independen, dan konstanta",
+          "variabel tujuan, variabel kendala, dan data primer"
+        ],
+        a: 0,
+        explain: "variabel keputusan, fungsi tujuan, dan fungsi kendala"
+      },
+
+      {
+        q: "129. Apa fungsi penggunaan ukuran-ukuran dalam produktivitas bagi manajer perusahaan?",
+        choices: [
+          "Membantu manajer dalam menentukan seberapa baik usaha yang mereka lakukan.",
+          "Membantu menentukan rasio hasil (jasa) dibagi dengan masukan (sumberdaya, seperti modal).",
+          "Mengidentifikasi rasio masukan (sumberdaya, seperti modal) dibagi dengan hasil (jasa).",
+          "Secara sederhana mengetahui jumlah luaran yang dihasilkan oleh industri jasa, misalnya hotel dan rumah sakit."
+        ],
+        a: 0,
+        explain: "Membantu manajer dalam menentukan seberapa baik usaha yang mereka lakukan."
+      },
+
+      {
+        q: "130. Pengertian jasa adalah suatu aktivitas, manfaat, atau kepuasan yang ditawarkan kepada konsumen. Merupakan teori yang diungkapkan oleh....",
+        choices: [
+          "Philip Kottler",
+          "Wright dan Race",
+          "Heizer dan Render",
+          "Gronroos."
+        ],
+        a: 0,
+        explain: "Philip Kottler"
+      },
+
+      {
+        q: "131. Yang dimaksud jumlah kedatangan pada sebuah antrean per satuan waktu mengikuti pola distribusi Poisson adalah….",
+        choices: [
+          "Data kedatangan terdistribusi berbentuk curve bell yang secara merata dengan n = 0, 1, 2, …  ",
+          "Kedatangan dapat dihitung dengan satuan waktu per menit per pelayanan.",
+          "Data kedatangan terdistribusi per menit per pelayanan dan bila kedatangan terjadi secara acak, informasi yang penting adalah probabilitas n kedatangan dalam periode waktu tertentu, dimana n = 0, 1 , 2, … ",
+          "Kedatangan digambarkan dalam jumlah satu waktu, dan bila kedatangan terjadi secara acak, informasi yang penting adalah probabilitas n kedatangan dalam periode waktu tertentu, dimana n = 0, 1 , 2, …"
+        ],
+        a: 3,
+        explain: "Kedatangan digambarkan dalam jumlah satu waktu, dan bila kedatangan terjadi secara acak, informasi yang penting adalah probabilitas n kedatangan dalam periode waktu tertentu, dimana n = 0, 1 , 2, …"
+      },
+
+      {
+        q: "132. Apa yang dibutuhkan dalam strategi tata ruang dalam konteks Manajemen Operasi Jasa?",
+        choices: [
+          "Desain yang menjelaskan apa yang diperlukan dari kegiatan operasi masing-masing keputusan manajemen operasi jasa.",
+          "Desain tata ruang yang menentukan ekspektasi kualitas dari jasa dan membuat kebijakan serta prosedur untuk memenuhi pernintaan pasar.",
+          "Penyatuan kebutuhan kapasitas, tingkat personel, teknologi, dan kebutuhan persediaan untuk menentukan arus bahan baku, orang, dan informasi yang efisien.",
+          "Tidak ada jawaban."
+        ],
+        a: 2,
+        explain: "Penyatuan kebutuhan kapasitas, tingkat personel, teknologi, dan kebutuhan persediaan untuk menentukan arus bahan baku, orang, dan informasi yang efisien."
+      },
+
+      {
+        q: "133.  Penawaran produk yang dilakukan perusahaan di pasar biasanya menyangkut beberapa jenis jasa juga. Dengan demikian, suatu penawaran produk dapat bervariasi dari dua kutub ekstrem, yaitu....",
+        choices: [
+          "Murni berupa barang dan murni berupa jasa",
+          "Model dan bentuk",
+          "Fitur dan tampilan",
+          "Semua benar"
+        ],
+        a: 0,
+        explain: "Murni berupa barang dan murni berupa jasa"
+      },
+
+      {
+        q: "134. Untuk menilai manfaat proyek yang dibangun maka dilakukan analisis finansial dengan menggunakan parameter dari analisis finansial, salah satunya adalah benefit cost ratio (BCR). Apa yang terjadi bila BCR < 1?",
+        choices: [
+          "Proyek dikatakan layak secara ekonomi.",
+          "Proyek dikatakan ditunda secara ekonomi.",
+          "Proyek dikatakan negatif (< 1) sehingga memerlukan tambahan modal.",
+          "Proyek dikatakan tidak layak secara ekonomi."
+        ],
+        a: 3,
+        explain: "Proyek dikatakan tidak layak secara ekonomi."
       }
 
     
