@@ -480,7 +480,779 @@
         ],
         a: 1,
         explain: "desain produk jasa menentukan ekspektasi kualitas dari jasa dan membuat kebijakan serta prosedur untuk memenuhi pernintaan pasar"
+      },
+
+      {
+        q: "43. Dibawah ini merupakan bentuk kategori penawaran jasa suatu perusahaan, kecuali....",
+        choices: [
+          "produk fisik murni",
+          "produk primer",
+          "produk fisik dengan jasa pendukung",
+          "hybrid"
+        ],
+        a: 1,
+        explain: "produk primer"
+      },
+
+      {
+        q: "44. Untuk menilai manfaat proyek yang dibangun maka dilakukan analisis finansial dengan menggunakan parameter dari analisis finansial, salah satunya adalah net present value (NPV). Apa yang terjadi bila NPV < 0?",
+        choices: [
+          "Proyek dikatakan layak secara ekonomi.",
+          "Proyek dikatakan ditunda secara ekonomi.",
+          "Proyek dikatakan negatif (< 0) sehingga memerlukan tambahan modal.",
+          "Proyek dikatakan tidak layak secara ekonomi."
+        ],
+        a: 3,
+        explain: "Proyek dikatakan tidak layak secara ekonomi."
+      },
+
+      {
+        q: "45. Apakah yang dimaksud dengan fungsi evaluasi jasa?",
+        choices: [
+          "Monitoring dilakukan sementara kegiatan proses jasa sedang berlangsung.",
+          "Merupakan satu diantara komponen penting dalam sistem manajemen program (perencanaan, pelaksanaan dan tindakan korektif).",
+          "Memberikan informasi mengenai hambatan dan penyimpangan kepada pengelola program dan masukan bagaimana menyelesaikan masalahnya.",
+          "Mengendalikan dan mengontrol ketercapaian tujuan serta memberikan gambaran tentang manfaat suatu kebijakan."
+        ],  
+        a: 3,
+        explain: "Mengendalikan dan mengontrol ketercapaian tujuan serta memberikan gambaran tentang manfaat suatu kebijakan."
+      },
+
+      {
+        q: "46. Dibawah ini adalah bentuk-bentuk jasa pengiriman barang, kecuali....",
+        choices: [
+          "pengiriman via darat",
+          "Full Truck Load (FTL)",
+          "Less Than Truck Load (LTL)",
+          "pengiriman via laut"
+        ],
+        a: 0,
+        explain: "pengiriman via darat"
+      },
+
+      {
+        q: "47. Menentukan alernatif lokasi dengan perbandingan ekonomi merupakan metode analisis….",
+        choices: [
+          "perbandingan faktor",
+          "perbandingan lokasi",
+          "geografis ekonomi",
+          "titik impas"
+        ],
+        a: 3,
+        explain: "titik impas"
+      },
+
+      {
+        q: "48. Ketika kita mencoba untuk mengelompokkan gerai yang dimiliki perusahaan lain yang sejenis di sebuah lokasi sebagai landasan penentuan lokasi, maka metode yang digunakan tersebut adalah metode….",
+        choices: [
+          "competitive marketing",
+          "competitive clustering",
+          "marketing clustering",
+          "saturation marketing"
+        ],
+        a: 1,
+        explain: "competitive clustering"
+      },
+
+      {
+        q: "Setelah koefisien korelasi diketahui dalam uji reliabilitas, maka hasilnya dimasukkan kedalam rumus Spearman Brown dengan formula….",
+        choices: [
+          "r = 1+rb / 2rb",
+          "r = 1rb / 2rb",
+          "r = 2rb / 1+rb",
+          "semua salah karena data sampel tidak bisa diambil berdasarkan populasi"
+        ],
+        a: 2,
+        explain: "r = 2rb / 1+rb"
+      },
+
+      {
+        q: "50. Beberapa taktik untuk menyetarakan kapasitas dengan permintaan, kecuali.... ",
+        choices: [
+          "membuat perubahan dalam susunan kepegawaian",
+          "menyesuaikan perlengkapan",
+          "meningkatkan proses untuk meningkatkan terobosan",
+          "semua benar"
+        ],
+        a: 3,
+        explain: "semua benar"
+      },
+
+      {
+      q: "51. Dalam kaitannya dengan strategi, apa dampak dari perubahan kapasitas?",
+      choices: [
+        "Perubahan kapasitas berimplikasi bagi produksi, keuangan, dan pemasaran produk yang berdampak terhadap kemampuan produksi.",
+        "Perubahan kapasitas secara sederhana berdampak terhadap kemampuan produksi.",
+        "Perubahan kapasitas berimplikasi bagi penjualan dan arus kas, mutu, rantai pasokan, SDM, dan pemeliharaan.",
+        "Semua salah."
+
+      ],
+      a: 1,
+      explain: "Perubahan kapasitas secara sederhana berdampak terhadap kemampuan produksi."
+      },
+
+      {
+      q: "52. Analisis SWOT adalah….",
+      choices: [
+        "Identifikasi berbagai faktor secara sistematis untuk merumuskan strategi perusahaan yang didasarkan pada logika yang dapat memaksimalkan kekuatan dan peluang, namun sebaiknya dapat mengesampingkan kelemahan dan ancaman agar fokus berkembang.",
+        "Identifikasi berbagai faktor secara sistematis untuk merumuskan strategi perusahaan yang didasarkan pada logika yang dapat memaksimalkan kekuatan dan peluang, namun secara bersamaan dapat meminimalkan kelemahan dan ancaman agar fokus berkembang.",
+        "Identifikasi berbagai faktor secara sistematis untuk merumuskan strategi perusahaan yang didasarkan pada logika yang dapat memaksimalkan kekuatan dan peluang, namun secara bersamaan harus mampu menghilangkan kelemahan dan ancaman agar tercapai keunggulan kompetitif.",
+        "Identifikasi berbagai faktor secara sistematis untuk merumuskan strategi perusahaan yang didasarkan pada logika yang dapat menemukan kekuatan dan peluang, yang secara bersamaan bekerjasama dengan mitra untuk menghilangkan kelemahan dan ancaman"
+      ],
+      a: 1,
+      explain: "Identifikasi berbagai faktor secara sistematis untuk merumuskan strategi perusahaan yang didasarkan pada logika yang dapat memaksimalkan kekuatan dan peluang, namun secara bersamaan dapat meminimalkan kelemahan dan ancaman agar fokus berkembang."
+      },
+      
+      {
+      q: "53. Siklus hidup produk terdiri dari 4 (empat) tahap, yaitu....",
+      choices: [
+        "tahap penemuan, tahap perancangan, tahap pembuatan, tahap penjualan",
+        "tahap pembuatan, tahap pengujian, tahap pemasaran, dan tahap pengembangan",
+        "tahap pembuatan, tahap desain, tahap pengujian, tahap komersialisasi",
+        "tahap perkenalan, tahap pertumbuhan, tahap kematangan, dan tahap penurunan"
+      ],
+      a: 3,
+      explain: "tahap perkenalan, tahap pertumbuhan, tahap kematangan, dan tahap penurunan"
+      },
+
+      {
+      q: "54. Menurut Sherman dan Bohlander, apa yang dimaksud dengan perencanaan sumber daya manusia?",
+      choices: [
+        "Perencanaan SDM adalah aktifitas yang terancang untuk membangun sesuatu karir dalam pekerjaan.",
+        "Perencanaan SDM adalah pekerjaan yang harus selesai sesuai target yang ditentukan dan dilakukan secara rutin oleh Manajer SDM.",
+        "Perencanaan Sumber Daya Manusia adalah proses mengantisipasi dan membuat ketentuan (persyaratan) untuk mengatur arus gerakan tenaga kerja ke dalam, di dalam, dan ke luar organisasi.",
+        "Usaha bidang personalia yang bersifat sementara, temporer, dan bukan permanen yang memiliki sasaran khusus dengan waktu pelaksanaan yang sesuai dengan jumlah karyawan."
+      ],
+      a: 2,
+      explain: "Perencanaan Sumber Daya Manusia adalah proses mengantisipasi dan membuat ketentuan (persyaratan) untuk mengatur arus gerakan tenaga kerja ke dalam, di dalam, dan ke luar organisasi."
+      },
+
+      {
+      q: "55. Berikut adalah prosedur dalam perencanaan SDM, kecuali….",
+      choices: [
+        "menetapkan secara jelas kuantitas MSDM yang dibutuhkan",
+        "membuat daftar nama karyawan-karyawan dengan kinerja baik",
+        "mengumpulkan data dan informasi tentang MSDM",
+        "mengelompokkan data dan informasi serta menganalisanya"
+      ],
+      a: 1,
+      explain: "membuat daftar nama karyawan-karyawan dengan kinerja baik"
+      },
+
+      {
+      q: "56. Apa yang dapat dilakukan oleh perusahaan untuk memperoleh keunggulan kompetitif melalui operasi?",
+      choices: [
+        "Diferensiai, biaya rendah, dan respons cepat.",
+        "Efektifitas.",
+        "Efisiensi.",
+        "Efektifitas dan efisiensi secara bersamaan."
+      ],
+      a: 0,
+      explain: "Diferensiai, biaya rendah, dan respons cepat."
+      },
+
+      {
+      q: "57. Untuk meningkatkan produktivitas jasa salah satu teknik adalah membuat struktur pelayanan sehingga pelanggan harus pergi ke tempat layanan yang ditawarkan. Teknik ini merupakan implementasi dari strategi....",
+      choices: [
+        "fokus",
+        "modular",
+        "pemisahan",
+        "swalayan"
+      ],
+      a: 3,
+      explain: "swalayan"
+      },
+
+      {
+      q: "58. Perusahaan menetapkan keputusan operasi didesentralisasi dan kantor pusat mengkoordinasikan standarisasi dan pembelajaran antar fasilitas merupakan strategi....",
+      choices: [
+        "Strategi Internasional",
+        "Strategi Global",
+        "Strategi Transnasional",
+        "Strategi Multidomestik"
+      ],
+      a: 2,
+      explain: "Strategi Transnasional"
+      },
+
+      {
+      q: "59. Dibawah ini merupakan beberapa tahapan yang perlu dilakukan dalam Manajemen Pengadaan, kecuali….",
+      choices: [
+        "perencanaan pembelanjaan dan pengadaan",
+        "target untuk memperoleh biaya, dan tempat",
+        "permintaan respons dari distributor",
+        "memilih distributor"
+      ],
+      a: 1,
+      explain: "target untuk memperoleh biaya, dan tempat"
+      },
+
+      {
+      q: "60. Apa tujuan utama dari Strategi SDM?",
+      choices: [
+        "Meningkatkan kinerja sekarang dan yang akan datang secara berkesinambungan sehingga dapat mempertahankan keunggulan kompetitifnya.",
+        "Mendefinisikan kesempatan dan kendala MSDM yang berorientasi pada hasil.",
+        "Memberi perspektif yang lebih luas.",
+        "Memperjelas gagasan baru terhadap isu-isu MSDM yang berorientasi pada hasil."
+      ],
+      a: 0,
+      explain: "Meningkatkan kinerja sekarang dan yang akan datang secara berkesinambungan sehingga dapat mempertahankan keunggulan kompetitifnya."
+      },
+
+      {
+      q: "61. Berkaitan dengan prosedur, aspek apa yang menjadi unsur dalam salah satu strategi SDM?",
+      choices: [
+        "Schedules.",
+        "Location strategy.",
+        "Individual differences.",
+        "Process strategy."
+      ],
+        a: 0,
+        explain: "Schedules."
+      },
+
+      {
+        q: "62. Apa yang dimaksud dengan perbaikan berkesinambungan?",
+        choices: [
+          "Terukur.", "Terjadwal.", "Terukur dan terjadwal.", "Terus menerus."
+        ],
+        a: 3,
+        explain: "Terus menerus."
+      },
+
+      {
+        q: "63. Mengapa Supply Chain Balanced Scorecard menjadi alat pengukuran kinerja yang paling populer baik di kalangan industri maupun penelitian?",
+        choices: [
+          "Metode yang dikembangkan sebagai upaya untuk menghubungkan pengukuran keuangan terhadap kinerja operasional yang melibatkan pemilahan kegiatan-kegiatan menjadi tugas-tugas individu atau tempat pengeluaran biaya (cost driver).",
+          "Karena memungkinkan manajer untuk mengamati dengan seimbang dari kedua sisi baik operasional ataupun keuangan pada saat bersamaan.",
+          "Metode yang mengamati dengan seksama kelebihan dan kekurangan operasional ataupun keuangan untuk mencari penyimpangan.",
+          "Tidak ada yang benar."
+        ],
+        a: 1,
+        explain: "Karena memungkinkan manajer untuk mengamati dengan seimbang dari kedua sisi baik operasional ataupun keuangan pada saat bersamaan."
+      },
+
+      {
+        q: "64. Dalam tata letak dibutuhkan perhitungan untuk menyusun unit kerja atau tata letak. Hal ini berguna untuk….",
+        choices: [
+          "efektifitas tujuan",
+          "mencapai biaya minimal dalam penanganan bahan",
+          "mengoptimakan ketersediaan fasilitas dan ruang yang tersedia",
+          "menggabungkan manusia, peralatan, dan ruang"
+        ],
+        a: 1,
+        explain: "mencapai biaya minimal dalam penanganan bahan"
+      },
+
+      {
+        q: "65. Dibawah ini merupakan tiga fungsi utama dari kualitas produk, kecuali….",
+        choices: [
+          "memenuhi standar konsumen",
+          "pemeriksaan kualitas",
+          "pengendalian kualitas",
+          "pemastian kualitas"
+
+        ],
+        a: 1,
+        explain: "pemeriksaan kualitas"
+      },
+
+      {
+        q: "66. Terdapat 4 (empat) faktor distribusi yang memengaruhi pemilihan saluran, salah satunya adalah….",
+        choices: [
+          "jalur yang dipakai oleh produsen untuk memindahkan produk mereka melalui suatu lembaga yang mereka pilih",
+          "saluran distribusi dari sistem rangkaian rantai pasok",
+          "pertimbangan pasar sasaran",
+          "pertimbangan modal dan jarak"
+        ],
+        a: 2,
+        explain: "pertimbangan pasar sasaran"
+      },
+
+      {
+        q: "67. Dampak strategi biaya rendah yang diterapkan perusahaan terhadap keputusan rantai pasokan dalam konteks tujuan pemasok adalah….",
+        choices: [
+          "mengidentifikasi kegiatan dalam rantai pasokan",
+          "mengutamakan pemilihan biaya",
+          "merencanakan kegiatan dalam rantai pasokan",
+          "mengoordinasi kegiatan dalam rantai pasokan"
+        ],
+        a: 1,
+        explain: "mengutamakan pemilihan biaya"
+      },
+
+      {
+        q: "68. Dibawah ini adalah aktivitas proses yang berhubungan dengan purchasing menurut Ballou (1992), kecuali….",
+        choices: [
+          "menetapkan harga bahan terlabih dahulu",
+          "memilih dan menunjuk supplier yang memenuhi syarat",
+          "pengukuran performansi supplier",
+          "negosiasi kontrak"
+        ],
+        a: 0,
+        explain: "menetapkan harga bahan terlabih dahulu"
+      },
+
+      {
+        q: "69. Kelebihan tata letak yang berorientasi pada proses adalah….",
+        choices: [
+          "adanya pedoman baku peralatan dan penugasan tenaga kerja",
+          "adanya standar desain peralatan dan penugasan tenaga kerja yang kompleks",
+          "adanya fleksibilitas peralatan dan penugasan tenaga kerja",
+          "kombinasi ketiganya"
+        ],
+        a: 2,
+        explain: "adanya fleksibilitas peralatan dan penugasan tenaga kerja"
+      },
+
+      {
+        q: "70. Tujuan utama dari tata letak pabrik yang terencana dengan baik adalah....",
+        choices: [
+          "tata letak memberikan panduan penyusunan perabotan dan perlengkapan kantor pada luas kantor yang tersedia",
+          "dapat menentukan efisiensi, memberikan kemudahan dalam proses pengawasan, dan menghadapi rencana perluasan pabrik di kemudian hari.",
+          "tata letak membantu penyusunan jadwal, manusia, dan peralatan dalam jadwal pekerjaan",
+          "semua benar"
+        ],
+        a: 1,
+        explain: "dapat menentukan efisiensi, memberikan kemudahan dalam proses pengawasan, dan menghadapi rencana perluasan pabrik di kemudian hari."
+      },
+
+      {
+        q: "71. Dalam fungsi persediaan terdapat empat faktor yang dijadikan fungsi persediaan, salah satunya faktor waktu. Apa yang dimaksud dengan faktor waktu tersebut?",
+        choices: [
+          "Faktor yang disebabkan oleh kesalahan dalam peramalan permintaan, kerusakan mesin, keterlambatan operasi, bahan cacat, dan berbagai aspek lainnya.",
+          "Faktor yang menyebabkan perusahaan memerlukan persediaan agar tidak menghambat proses produksi maupun keterlambatan pengiriman kepada konsumen.",
+          "Menyangkut lamanya faktor produksi dan distribusi sebelum barang jadi sampai kepada konsumen.",
+          "Semua benar."
+        ],
+        a: 2,
+        explain: "Menyangkut lamanya faktor produksi dan distribusi sebelum barang jadi sampai kepada konsumen."
+      },
+
+      {
+        q: "72. Apa yang dimaksud dengan prespektif pelanggan pada Balance scorecard?",
+        choices: [
+          "Memfokuskan pada bagaimana organisasi memperhatikan pelanggannya agar berhasil.",
+          "Memfokuskan pada bagaimana organisasi memperhatikan pelanggannya agar loyal.",
+          "Memfokuskan pada bagaimana organisasi memperhatikan pelanggannya agar meningkat kepuasannya.",
+          "Semua benar."
+        ],
+        a: 3,
+        explain: "Semua benar."
+      },
+
+      {
+        q: "73. Berikut merupakan tujuan atau alasan utama untuk melakukan pengukuran kinerja, kecuali....",
+        choices: [
+          "motivasi", "kepentingan manajemen", "komunikasi", "kontrol"
+        ],
+        a: 1,
+        explain: "kepentingan manajemen"
+      },
+
+      {
+        q: "74. Salah satu isu yang dapat merumitkan pengembangan rantai pasokan adalah optimasi lokal. Apa maksud dari optimasi lokal tersebut?",
+        choices: [
+          "Anggota rantai pasokan harus memusatkan perhatian untuk memaksimalkan keuntungan lokal atau meminimalkan biaya langsung berdasarkan pada pengetahuan mereka yang terbatas.",
+          "Anggota rantai pasokan tidak perlu fokus dalam memaksimalkan keuntungan lokal atau meminimalkan biaya langsung berdasarkan pada pengetahuan mereka yang terbatas.",
+          "Anggota rantai pasokan bisa saja mengabaikan keuntungan lokal atau meminimalkan biaya langsung berdasarkan pada pengetahuan mereka yang terbatas.",
+          "Semua benar."
+        ],
+        a: 0,
+        explain: "Anggota rantai pasokan harus memusatkan perhatian untuk memaksimalkan keuntungan lokal atau meminimalkan biaya langsung berdasarkan pada pengetahuan mereka yang terbatas."
+      },
+
+      {
+        q: "75. Terdapat 5 (lima) komponen utama atau pelaku dalam supply chain secara horizontal, kecuali….",
+        choices: [
+          "pemasok",
+          "pabrik pembuat barang",
+          "mitra perusahaan",
+          "pengecer"
+        ],
+        a: 2,
+        explain: "mitra perusahaan"
+      },
+
+      {
+        q: "76. Ada beberapa langkah kunci untuk benchmarking menurut Camp (1989), salah satunya adalah….",
+        choices: [
+          "pengukuran suatu proses atau organisasi terhadap beberapa target, baik internal (internal benchmarking) maupun eksternal (external benchmarking)",
+          "pengukuran suatu proses atau organisasi terhadap beberapa target, tidak ada istilah internal maupun eksternal dalam hal ini",
+          "mencari praktik terbaik yang akan mengarah pada kinerja superior organisasi yang biasanya menyiratkan mencari praktik terbaik",
+          "tentukan tujuan dan pilih jenis benchmarking"
+        ],
+        a: 3,
+        explain: "tentukan tujuan dan pilih jenis benchmarking"
+      },
+
+      {
+        q: "77. Yang tidak termasuk kepentingan audit bagi SDM adalah.…",
+        choices: [
+          "untuk meningkatkan prestasi karyawan",
+          "karyawan ingin mengetahui apakah prestasi kerjanya lebih baik daripada karyawan lainnya",
+          "untuk pentingan jasa dan promosinya",
+          "mengakrabkan hubungan para karyawan dan pemimpinnya"
+        ],
+        a: 3,
+        explain: "mengakrabkan hubungan para karyawan dan pemimpinnya"
+      },
+
+      {
+        q: "78. Berikut ini adalah langkah-langkah dalam proses peramalan, kecuali....",
+        choices: [
+          "definisikan tujuan peramalan",
+          "analisis data masa lalu",
+          "buat pola atau diagram pencar dari data masa lalu",
+          "simpan data untuk diolah dan memprediksi kondisi yang akan datang"
+        ],
+        a: 3,
+        explain: "simpan data untuk diolah dan memprediksi kondisi yang akan datang"
+      },
+
+      {
+        q: "79. Yang dimaksud dengan metode peramalan deret waktu (time series) adalah....",
+        choices: [
+          "metode yang mengasumsikan bahwa beberapa peristiwa masa depan tidak selalu terkait dengan terjadinya peristiwa sebelumnya",
+          "metode yang mengasumsikan bahwa beberapa peristiwa masa depan terkait dengan terjadinya peristiwa sebelumnya",
+          "metode yang didasarkan atas penggunaan analisis pola hubungan antara variabel yang akan diperkirakan dengan variabel waktu, yang merupakan deret waktu",
+          "mengasumsikan bahwa beberapa peristiwa masa depan sudah bisa dipastikan terjadi berdasarkan peristiwa sebelumnya"
+        ],
+        a: 2,
+        explain: "metode yang didasarkan atas penggunaan analisis pola hubungan antara variabel yang akan diperkirakan dengan variabel waktu, yang merupakan deret waktu"
+      },
+
+      {
+        q: "80. Kita dapat menggunakan metode-metode dibawah ini dalam pengambilan keputusan di bawah ketidakpastian, kecuali….",
+        choices: [
+          "maximax", "maximal", "maximin", "hasil rata-rata tertinggi"
+        ],
+        a: 1,
+        explain: "maximal"
+      },
+
+      {
+        q: "81. Apa yang dimaksud dengan pengukuran produktivitas multifaktor?",
+        choices: [
+          "Penggunaan lebih dari satu sumberdaya masukan untuk mengukur produktivitas.",
+          "Penggunaan dari minimal tiga sumberdaya masukan untuk mengukur produktivitas.",
+          "Perhitungan produktivitas yang termasuk didalamnya semua input (masukan).",
+          "Penggunaan dari hanya satu sumberdaya masukan untuk mengukur produktivitas."
+        ],
+        a: 0,
+        explain: "Penggunaan lebih dari satu sumberdaya masukan untuk mengukur produktivitas."
+      },
+
+      {
+        q: "82. Dalam metode transportasi, metode apa yang dapat digunakan untuk mencari alokasi dengan dimulai dari kolom di pojok kiri atas?",
+        choices: [
+          "Vogel’s Approximation Method (VAM).",
+          "Northwest corner.",
+          "Metode ongkos terkecil (least cost).",
+          "Semuanya benar."
+        ],
+        a: 1,
+        explain: "Northwest corner."
+      },
+
+      {
+        q: "83. Tujuan pemograman linear adalah….",
+        choices: [
+          "memecahkan masalah persoalan optimasi penggunaan sumberdaya manusia dengan menggunakan persamaan dan pertidaksamaan dalam rangka untuk mencari pemecahan yang optimal dengan memperhatikan batasan-batasan sumberdaya yang ada.",
+          "memecahkan persoalan memaksimumkan atau meminimumkan untuk mendapatkan penyelesaian yang optimal dengan memperhatikan batasanbatasan sumberdaya yang ada.",
+          "secara sederhana menghitung hasil rata-rata tertinggi penggunaan input yang terbatas.",
+          "sebagai metode matematis yang berbentuk linear untuk menentukan suatu penyelesaian optimal dengan cara memaksimumkan atau meminimumkan fungsi tujuan terhadap suatu susunan kendala"
+        ],
+        a: 3,
+        explain: "sebagai metode matematis yang berbentuk linear untuk menentukan suatu penyelesaian optimal dengan cara memaksimumkan atau meminimumkan fungsi tujuan terhadap suatu susunan kendala"
+      },
+
+      {
+        q: "84. Menurut Broedner (2009), ukuran utama yang digunakan untuk mengukur kinerja dari manajemen operasional jasa adalah....",
+        choices:[
+          "produksi", "jumlah unit produk yang dibuat", "produk dan jasa", "produktivitas"
+        ],
+        a: 3,
+        explain: "produktivitas"
+      },
+
+      {
+        q: "85. Pada organisasi jasa fungsi dari manajemen operasi jasa yang berinteraksi dengan pelanggan dalam memberikan pelayanan kepada pelanggan dan juga merupakan sebuah disiplin ilmu merupakan teori yang diungkapkan oleh....",
+        choices: [
+          "Philip Kottler",
+          "Wright dan Race",
+          "Heizer dan Render",
+          "Fandy Tjiptono"
+        ],
+        a: 1,
+        explain: "Wright dan Race"
+      },
+
+      {
+        q: "86. Rumus untuk menghitung rata-rata utilitas antrian adalah….",
+        choices: [
+          "ρ = Cμ / λ-1",
+          "Cμ = ρ / λ",
+          "Ρ = λ-1 / Cμ",
+          "ρ = λ / Cμ"
+        ],
+        a: 3,
+        explain: "ρ = λ / Cμ"
+      },
+
+      {
+        q: "87. Dalam proses penciptaan barang atau jasa ada tiga fungsi utama yang dilakukan oleh seluruh perusahaan, yaitu....",
+        choices: [
+          "efektifitas, efisiensi, dan produktivitas",
+          "pemasaran, produksi/ operasi, dan finansial/ akuntansi",
+          "produktivitas tenaga kerja, teknologi, dan uang",
+          "fasilitas, manusia, dan teknologi"
+        ],
+        a: 1,
+        explain: "pemasaran, produksi/ operasi, dan finansial/ akuntansi"
+      },
+
+      {
+        q: "88. Pengertian permintaan jasa adalah....",
+        choices: [
+          "keseluruhan jumlah jasa yang dijual dan tersedia diminta pada berbagai tingkat harga, waktu, dan tempat tertentu",
+          "keseluruhan jumlah barang atau jasa yang bersedia diminta pada berbagai tingkat harga, waktu, dan tempat tertentu",
+          "keseluruhan jasa yang bersedia diminta pada berbagai tingkat harga, waktu, dan tempat tertentu",
+          "semua benar"
+        ],
+        a: 2,
+        explain: "keseluruhan jasa yang bersedia diminta pada berbagai tingkat harga, waktu, dan tempat tertentu"
+      },
+
+      {
+        q: "89. Untuk menilai manfaat proyek yang dibangun maka dilakukan analisis finansial dengan menggunakan parameter dari analisis finansial, salah satunya adalah Internal Rate of Return (IRR). Apa yang terjadi bila IRR < tingkat suku bunga deposito?",
+        choices: [
+          "Proyek dikatakan layak secara ekonomi.",
+          "Proyek dikatakan tidak layak secara ekonomi.",
+          "Proyek dikatakan negatif (< 0) sehingga memerlukan tambahan modal.",
+          "Proyek dikatakan ditunda secara ekonomi."
+        ],
+        a: 1,
+        explain: "Proyek dikatakan tidak layak secara ekonomi."
+      },
+
+      {
+        q: "90. Tujuan untuk mengetahui apakah sebuah program mencapai sasaran yang diharapkan atau tidak adalah tujuan dari....",
+        choices: [
+          "monitoring",
+          "controlling",
+          "evaluasi",
+          "mengendalikan dan mengontrol ketercapaian tujuan serta berhubungan dengan hasil informasi tentang nilai serta memberikan gambaran tentang manfaat suatu kebijakan"
+        ],
+        a: 2,
+        explain: "evaluasi"
+      },
+
+      {
+        q: "91. Kristiadi (1999:27) mengungkapkan kebijakan layanan publik yang baik terdiri dari beberapa hal berikut ini, kecuali....",
+        choices: [
+          "pelayanan yang mencakup indikator-indikator pelayanan yang cepat dan sesuai",
+          "kepastian petugas layanan",
+          "pelayanan langsung bagi pelayanan yang sifatnya sesaat",
+          "kepastian biaya"
+        ],
+        a: 2,
+        explain: "pelayanan langsung bagi pelayanan yang sifatnya sesaat"
+      },
+
+      {
+        q: "92. Selain Globalisasi, masih ada sejumlah faktor lain yang memengaruhi keputusan lokasi, diantaranya….",
+        choices: [
+          "lokasi harus strategis",
+          "produktivitas tenaga kerja",
+          "kedekatan dengan akses",
+          "biaya pajak, upah, dan kesehatan"
+        ],
+        a: 1,
+        explain: "produktivitas tenaga kerja"
+      },
+
+      {
+        q: "93. Selain volume dan pendapatan bagi perusahaan jasa, terdapat beberapa hal yang menentukan lokasi, diantaranya adalah….",
+        choices: [
+          "non ekonomi, seperti aturan, politik, dan sosial",
+          "modal membangun tempat layanan baru",
+          "daya beli konsumen pada area yang dituju",
+          "semua benar"
+        ],
+        a: 3,
+        explain: "semua benar"
+      },
+
+      {
+        q: "94. Berapakah besaran bobot yang bisa ditetapkan dalam menentukan bobot faktor internal dan eksternal?",
+        choices: [
+          "1 – 5",
+          "0 – 10",
+          "0 – 5",
+          "0 – 1"
+        ],
+        a: 3,
+        explain: "0 – 1"
+      },
+
+      {
+        q: "95. Dibawah ini adalah strategi pengelolaan permintaan jasa, yaitu….",
+        choices: [
+          "menawarkan insentif harga",
+          "mengelompokkan permintaan",
+          "promosi diwaktu permintaan sepi",
+          "semua benar"
+        ],
+        a: 3,
+        explain: "semua benar"
+      },
+
+      {
+        q: "96. Apa yang dimaksud dengan kapasitas desain (design capacity)?",
+        choices: [
+          "Output yang minimum secara teori pada suatu sistem dalam suatu periode waktu tertentu.",
+          "Output yang maksimum secara teori pada suatu sistem dalam suatu periode waktu tertentu.",
+          "Output yang rerata secara teori pada suatu sistem dalam suatu periode waktu tertentu.",
+          "Output yang proporsional secara teori pada suatu sistem dalam suatu periode waktu tertentu."
+        ],
+        a: 1,
+        explain: "Output yang maksimum secara teori pada suatu sistem dalam suatu periode waktu tertentu."
+      },
+
+      {
+        q: "97. Manakah yang tidak termasuk kedalam faktor kekuatan pada analisis SWOT?",
+        choices: [
+          "Teknologi.",
+          "Tren pasar.",
+          "Sumber daya finansial.",
+          "Basis pelanggan yang dimiliki."
+        ],
+        a: 1,
+        explain: "Tren pasar."
+      },
+
+      {
+        q: "98. Pengenalan layanan, metode, praktik, atau proses baru dan bermanfaat yang menambah nilai bagi organisasi merupakan definisi dari....",
+        choices: [
+          "kreativitas",
+          "inovasi",
+          "inventory",
+          "out of the box thinking"
+        ],
+        a: 1,
+        explain: "inovasi"
+      },
+
+      {
+        q: "99. Apa tujuan dari perencanaan sumber daya manusia?",
+        choices: [
+          "Perencanaan SDM mampu merancang untuk membangun sesuatu karir dalam pekerjaan.",
+          "Perencanaan SDM mampu menyelesaikan sesuai target yang ditentukan dan dilakukan secara rutin oleh Manajer SDM.",
+          "Perencanaan Sumber Daya Manusia mampu mengantisipasi dan membuat ketentuan (persyaratan) untuk mengatur arus gerakan tenaga kerja ke dalam, di dalam, dan ke luar organisasi.",
+          "Mempergunakan SDM seefektif mungkin agar memiliki sejumlah pekerja yang memenuhi persyaratan/kualifikasi dalam mengisi posisi yang kosong kapanpun dan apapun posisi tersebut."
+        ],
+        a: 2,
+        explain: "Perencanaan Sumber Daya Manusia mampu mengantisipasi dan membuat ketentuan (persyaratan) untuk mengatur arus gerakan tenaga kerja ke dalam, di dalam, dan ke luar organisasi."
+      },
+
+      {
+        q: "100. Tujuan dari pentingnya perencanaan SDM adalah sebagai berikut, kecuali….",
+        choices: [
+          "memberdayakan SDM secara efisien dan efektif",
+          "mengembangkan peluang karir yang lebih efektif",
+          "mengumpulkan data dan informasi tentang MSDM",
+          "mengembangkan SDM yang berkualitas dan memiliki kepuasan kerja"
+        ],
+        a: 2,
+        explain: "mengumpulkan data dan informasi tentang MSDM"
+      },
+
+      {
+        q: "101. Dibawah ini adalah alasan operasi bisnis berubah yang semula skala domestik menjadi operasi bisnis berskala internasional....",
+        choices: [
+          "meluaskan ekspansi pasar",
+          "menguatkan hegemoni brand",
+          "meningkatkan rantai pasok",
+          "semua benar"
+        ],
+        a: 3,
+        explain: "semua benar"
+      },
+
+      {
+        q: "102. Apa yang dimaksud dengan konsep fleksibilitas dalam desain proses pada industri jasa?",
+        choices: [
+          "Kemampuan adaptasi atas perubahan desain jasa",
+          "Kemampuan menyesuaikan kapasitas desain dengan standar pasar",
+          "Kemampuan respons cepat pesanan dan selera konsumen",
+          "Kemampuan untuk merespons dengan sedikit pengorbanan waktu, biaya, dan nilai konsumen"
+        ],
+        a: 3,
+        explain: "Kemampuan untuk merespons dengan sedikit pengorbanan waktu, biaya, dan nilai konsumen"
+      },
+
+      {
+        q: "103. Perusahaan yang terlibat ekstensif dalam bisnis internasional, memiliki atau mengendalikan fasilitas di lebih dari satu negara disebut....",
+        choices: [
+          "Perusahaan Global (Global Company)",
+          "Korporasi multinasional (Multi National Corporation / MNC)",
+          "Perusahaan Internasional (International Company)",
+          "Perusahaan korporasi internasional (International Coproration)"
+        ],
+        a: 1,
+        explain: "Korporasi multinasional (Multi National Corporation / MNC)"
+      },
+
+      {
+        q: "104. Yang dimaksud dengan Manajemen Pengadaan adalah….",
+        choices: [
+          "suatu proses yang menjamin tersedianya barang maupun jasa dari luar yang dibutuhkan oleh proyek",
+          "suatu proses yang menjamin tersedianya material yang dibutuhkan oleh proyek",
+          "suatu formula yang menjamin tersedianya data yang dibutuhkan oleh proyek",
+          "semua benar"
+        ],
+        a: 0,
+        explain: "suatu proses yang menjamin tersedianya barang maupun jasa dari luar yang dibutuhkan oleh proyek"
+      },
+
+      {
+        q: "105. Menciptakan keunggulan kompetitif melalui pendekatan strategic partner pada MSDM adalah….",
+        choices: [
+          "meningkatkan kinerja sekarang dan yang akan datang secara berkesinambungan sehingga dapat mempertahankan keunggulan kompetitifnya",
+          "menjadi mitra manajer senior dan manajer lini dalam melaksanakan strategi yang telah direncanakan, menerjemahkan strategi bisnis ke dalam tindakan nyata dengan diagnosis organisasi",
+          "memberi perspektif yang lebih luas dalam hubungan kemitraan antar perusahaan dengan karyawan",
+          "memperjelas gagasan baru terhadap isu-isu MSDM yang berorientasi pada hasil"
+        ],
+        a: 1,
+        explain: "menjadi mitra manajer senior dan manajer lini dalam melaksanakan strategi yang telah direncanakan, menerjemahkan strategi bisnis ke dalam tindakan nyata dengan diagnosis organisasi"
+      },
+
+      {
+        q: "106. Mengapa kinerja manusia merupakan faktor strategis dalam suatu organisasi dan sangat berperan penting bagi kinerja organisasi?",
+        choices: [
+          "Karena kinerja SDM bukan kebijakan namun cara yang dipraktikan dan berhubungan dengan pemberdayaan manusia atau aspek-aspek SDM dari sebuah posisi manajemen termasuk perekrutan, seleksi, pelatihan, penghargaan, dan penilaian.",
+          "Karena ditopang oleh kebijakan dan cara yang dipraktikan dan berhubungan dengan pemberdayaan manusia atau aspek-aspek SDM dari sebuah posisi manajemen termasuk perekrutan, seleksi, pelatihan, penghargaan, dan penilaian.",
+          "Karena suatu organisasi tidak akan berfungsi tanpa manusia, dan tidak akan unggul tanpa orang-orang yang handal dan termotivasi.",
+          "Semua benar."
+        ],
+        a: 3,
+        explain: "Semua benar."
+      },
+
+      {
+        q: "107. Apa yang dimaksud dengan Six Sigma….",
+        choices: [
+          "perbaikan terukur",
+          "program untuk menghemat waktu, meningkatkan kualitas, dan menurunkan biaya",
+          "perbaikan terukur yang dilakukan dengan pendekatan six sigma",
+          "perbaikan secara terus menerus sebanyak enam kali, yang disebut sigma"
+        ],
+        a: 1,
+        explain: "program untuk menghemat waktu, meningkatkan kualitas, dan menurunkan biaya"
       }
+
+    
     ];
 
 // ==================================================================================================================!
